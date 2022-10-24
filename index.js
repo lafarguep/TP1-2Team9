@@ -1,4 +1,4 @@
- //let edad =prompt('ingrese su edad');
+ let edad =prompt('ingrese su edad');
 
  if(edad >= 18){
 
